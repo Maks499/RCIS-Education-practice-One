@@ -1,18 +1,18 @@
-import 'package:rcis_ep_task_one2/rcis_ep_task_one2.dart' as rcis_ep_task_one2;
+// import 'package:rcis_ep_task_one2/rcis_ep_task_one2.dart' as rcis_ep_task_one2;
 //                                                                          УП Практическая работа 1.2
 // Задание 1 УП 1.2
-import 'dart:io';
-import 'dart:math';
+// import 'dart:io';
+// import 'dart:math';
 
-void main() {
-  List<int>list = List.generate(100, (i) =>Random().nextInt(100)+0);
-  int a = 300;
-  for(int i = 0; i < list.length; i++){
-    list[i] = a - 3;
-    a -= 3;
-  }
-  stdout.write(list);
-}
+// void main() {
+//   List<int>list = List.generate(100, (i) =>Random().nextInt(100)+0);
+//   int a = 300;
+//   for(int i = 0; i < list.length; i++){
+//     list[i] = a - 3;
+//     a -= 3;
+//   }
+//   stdout.write(list);
+// }
 
 
 // Задание 2 УП 1.2
